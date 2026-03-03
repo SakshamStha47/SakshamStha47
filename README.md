@@ -11,23 +11,9 @@
 
 ## 🌐 Socials:
 
-<p align="left">
-  <a href="https://facebook.com/YOUR_PROFILE">
-    <img width="50" height="50" alt="facebook" src="https://github.com/user-attachments/assets/c7ac1e2e-2db2-481d-b054-e65ff9e8df54" />
-  </a>
-  
-  <img src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000000" width="20" height="1" />
-  
-  <a href="https://instagram.com/YOUR_PROFILE">
-    <img width="50" height="50" alt="instagram" src="https://github.com/user-attachments/assets/66d26f98-4efc-45b4-a13e-01f30fbacdf0" />
-  </a>
+![Static Badge](https://img.shields.io/badge/-black?style=for-the-badge&logo=Facebook&logoSize=2)
+![Static Badge](https://img.shields.io/badge/Facebook-black?style=flat-square&logo=Facebook&logoSize=2)
 
-  <img src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000000" width="20" height="1" />
-
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/1baeab58-af2e-42ce-afd2-8beed5df02bd" />
-  </a>
-</p>
 
 
 # 💻 Tech Stack:
