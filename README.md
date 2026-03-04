@@ -1,11 +1,13 @@
-# 👋 Hi, I'm Saksham.
+<h1 align="center">👋 Hi, I'm Saksham. </h1>
 
-<p align="right">
-  <a href="https://facebook.com/yourusername"><img src="./assets/facebook.svg" width="35" hspace="10" align="center"></a>
-  <a href="https://facebook.com/yourusername"><img src="./assets/instagram.svg" width="35" hspace="10" align="center"></a>
-  <a href="https://facebook.com/yourusername"><img src="./assets/x.svg" width="27" hspace="10" align="center"></a>
-  <a href="https://medium.com/@sakshamstha47"><img src="./assets/medium.svg" width="35" hspace="10" align="center"></a>
+<p align="center">
+  <a href="https://facebook.com/yourusername"><img src="./assets/facebook.svg" width="20" hspace="10" align="center"></a>
+  <a href="https://facebook.com/yourusername"><img src="./assets/instagram.svg" width="20" hspace="10" align="center"></a>
+  <a href="https://facebook.com/yourusername"><img src="./assets/x.svg" width="15" hspace="10" align="center"></a>
+  <a href="https://medium.com/@sakshamstha47"><img src="./assets/medium.svg" width="20" hspace="10" align="center"></a>
 </p>
+
+<br><br>
 
 🎓 Bachelor's in Civil Engineering &emsp; <i> Tribhuvan University </i>
 <br>
